@@ -17,15 +17,13 @@ This project aims to analyze a dataset containing historical and socio-economic 
 
 1. **Linear Regression**  
    A baseline approach to model the linear relationships between predictors and the unemployment rate.  
-   *Reference*: [Su et al., 2012](https://doi.org/10.1016/j.ecoinf.2012.03.004)
+
 
 2. **Logistic Regression**  
    Adapted to analyze categorical trends in the dataset, offering insights into threshold-based predictions (e.g., above or below specific unemployment levels).  
-   *Reference*: [Kleinbaum et al., 2002](https://doi.org/10.1007/b97377)
 
 3. **Recurrent Neural Networks (RNNs)**  
    A deep learning technique that leverages sequential data to capture temporal dependencies and provide dynamic predictions.  
-   *Reference*: [Salehinejad et al., 2017](https://doi.org/10.1109/ACCESS.2017.2761719)
 
 ### Data Exploration and Analysis
 
